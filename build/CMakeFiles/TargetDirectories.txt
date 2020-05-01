@@ -1,0 +1,9 @@
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/Experimental.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/Continuous.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/Nightly.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/test1.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/maths.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build/CMakeFiles/ZERO_CHECK.dir

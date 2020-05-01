@@ -1,0 +1,10 @@
+^C:\USERS\CHAWI\DESKTOP\WORK\COMPUTING PROJECT\20208742\WORKSHEETS\WORKSHEET 7\BUILD\CMAKEFILES\4ACB224AE9E9FF1A4D5D0C524DA039EB\RUN_TESTS_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chawi\Desktop\Work\Computing Project\20208742\Worksheets\Worksheet 7\build\CMakeFiles\4acb224ae9e9ff1a4d5d0c524da039eb\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9788B25C-8B81-3F2B-A604-1CAAD581E02A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
