@@ -7,5 +7,5 @@ except:
 # Build your code
 script:
 - cmake .
-- msbuild
-- msbuild test1.cpp
+- make
+- make test
