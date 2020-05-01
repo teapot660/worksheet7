@@ -36,6 +36,11 @@
 // extension to C/C++
 // prototype for our function 
 MATHSLIB_API int add( int a, int b ); 
+
+/** @file
+* the variable 'add' contains two sub-variables, a and b where they're added together
+*/
+
 #endif
 // / calc_cmake/adder.h -------------------------------------
 
