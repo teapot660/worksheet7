@@ -1,6 +1,6 @@
 # .travis.yml
 sudo: false
-4
+
 branches:
 except:
 - gh-pages

@@ -1,7 +1,7 @@
 ﻿  Test project C:/Users/chawi/Desktop/Work/Computing Project/20208742/Worksheets/Worksheet 7/build
       Start 1: test1
-  1/1 Test #1: test1 ............................   Passed    0.01 sec
+  1/1 Test #1: test1 ............................   Passed    0.04 sec
   
   100% tests passed, 0 tests failed out of 1
   
-  Total Test time (real) =   0.03 sec
+  Total Test time (real) =   0.05 sec
